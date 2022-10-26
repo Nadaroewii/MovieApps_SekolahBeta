@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cardImages">
+        <item>@drawable/film3</item>
+        <item>@drawable/film4</item>
+        <item>@drawable/film5</item>
+        <item>@drawable/film3</item>
+        <item>@drawable/film4</item>
+        <item>@drawable/film5</item>
+    </string-array>
+</resources>
