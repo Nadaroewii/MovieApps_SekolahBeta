@@ -9,6 +9,6 @@ The details of this apps:
 4. Use RecylerView and ArrayofList for retrive movie data
 
 
-<b> Demo of Movie Apps </b> \n
+<b> Demo of Movie Apps </b> 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/89477206/198838641-8ae1bc55-8cc0-4272-89bc-8f2e4197f802.gif)
