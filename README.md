@@ -7,4 +7,7 @@ The details of this apps:
 2. Use Firebase authentication to store user data
 3. Use API from https://www.themoviedb.org/ for store the history data
 4. Use RecylerView and ArrayofList for retrive movie data
+
+
 <b> Demo of Movie Apps </b>
+![Uploading ezgif.com-gif-maker (1).gif…]()
