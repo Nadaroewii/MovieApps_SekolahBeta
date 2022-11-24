@@ -46,26 +46,5 @@ class HistoryActivity : AppCompatActivity() {
             .baseUrl("https://dummyjson.com/")
             .build()
             .create(APIServices::class.java)
-//        val contentt = assets
-//            .open("products.json")
-//            .bufferedReader()
-//            .use { it.readText() }
-
-        //parse JSON
-//        val pagingData = Gson().fromJson(contentt, Product::class.java)
-
-        //setup Adapter
-
-//        val historyAdapter = HistoryListAdapter()
-        //UNUSED historylistadapter.
-
-//        val historyList = arrayListOf<ProductsItem>()
-//        pagingData.products?.forEach {
-//            historyList.add(Product(it?.description, it?.id, false))
-//        }
-//        historyAdapter.setNewItem(pagingData.products as ArrayList<ProductsItem>)
-
-//        val rvHistory = findViewById<RecyclerView>(R.id.lv_history)
-//        rvHistory.adapter=historyAdapter
     }
 }
